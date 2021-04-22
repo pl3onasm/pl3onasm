@@ -1,7 +1,7 @@
 ## David says Hi 🖖
 <br>
 
-Computing Science and Information Science at [RuG](https://rug.nl).
+Computing Science and Information Science at [UG](https://rug.nl).
 
 <br>
 <div>
